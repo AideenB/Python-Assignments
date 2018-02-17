@@ -1,4 +1,4 @@
-# Ian McLoughlin
+# Code by Ian McLoughlin
 # A program that displays Fibonacci numbers using people's names.
 
 def fib(n):
