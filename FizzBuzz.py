@@ -9,4 +9,3 @@ while i <= 100:
       print ("Buzz")
   else:
       print (i)
-i = i+1
