@@ -4,7 +4,7 @@
 
 i = 2 #all numbers divisible by 1 so start with next integer
 for k in (range(11, 21)):#range from 11 to 20
-  if i % k > 0: 
+  if i % k > 0: #if no remainder
     for j in range(11, 21): 
       if (i*j) % k == 0: #even numbers only
         i *= j 
