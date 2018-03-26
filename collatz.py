@@ -1,7 +1,7 @@
 #Aideen Byrne 06-02-2018
 #Collatz Conjecture - https://en.wikipedia.org/wiki/Collatz_conjecture 
 #with help from https://www.webucator.com/blog/2015/07/collatz-conjecture-in-python/
-#update
+
 num = 17
  
 while num != 1: #num not equal to 1
