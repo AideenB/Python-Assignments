@@ -12,7 +12,7 @@
 *This program is written to prove [problem set number 5 from Project Euler](https://projecteuler.net/problem=5). This problem posits that 2,520 is the smallest number that can be divided by each of the numers from 1 to 10 without any remainder. The program uses for and range to calculate the smallest positive number that is evenly divisible by all of the numbers from 1 to 20.*
 
 4. iris.py <br>
-*This code uses Ronald Fisher's Iris data set (https://en.wikipedia.org/wiki/Iris_flower_data_set) in a .csv file that is opened in Python and prints the four numerical values on each row (petal length, petal width, sepal length and sepal width)with decimal places aligned and a space between the columns.*
+*This code uses [Ronald Fisher's Iris data set](https://en.wikipedia.org/wiki/Iris_flower_data_set) in a .csv file that is opened in Python and prints the four numerical values on each row (petal length, petal width, sepal length and sepal width)with decimal places aligned and a space between the columns.*
 
 
 5. factorial.py <br>
