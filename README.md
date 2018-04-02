@@ -16,4 +16,4 @@
 
 
 5. factorial.py <br>
-*This exercise consists of a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its factorial (the factorial of a number is that number multiplied by all of the positive numbers less than it, e.g. the factorial of 5 is 5x4x3x2x1 which equals 120) This script also tests the function by calling it with the values 5, 7, and 10.*
+*This exercise consists of a Python script containing a function called factorial() that takes a single input/argument which is a positive integer and returns its [factorial](https://en.wikipedia.org/wiki/Factorial) This script also tests the function by calling it with the values 5, 7, and 10.*
