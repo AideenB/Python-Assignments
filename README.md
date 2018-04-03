@@ -3,7 +3,7 @@
 ### This is a list of the weekly assignments that I've completed as part of this module that are contained in this repository.
 
 1. exercise1+2.py <br>
-*Weeks 1 and 2 Assignments compiled together where the first and last letters of my first name were converted to corresponding numbers from the [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number) sequence and then added together, along with an exercise where a provided Python script was modified to return the Fibonacci number for the first and last letters of my last name ("b" and "e")* 
+*Weeks 1 and 2 Assignments compiled together where the first and last letters of my first name were converted to corresponding numbers from the [Fibonacci](https://en.wikipedia.org/wiki/Fibonacci_number) sequence and then added together, along with an exercise where a provided Python script was modified to return the Fibonacci number for the first and last letters of my last name.* 
 
 2. collatz.py <br>
 *This file contains a Python script that starts with an integer and applies the [Collatz conjecture](https://en.wikipedia.org/wiki/Collatz_conjecture) repeatedly using a while loop and if statement. The starting value is 17 and at each iteration, the current value of the integer is printed to the screen.*
